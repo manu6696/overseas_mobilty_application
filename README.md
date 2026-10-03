@@ -53,7 +53,7 @@ L'intero ambiente è dockerizzato per garantire un'esecuzione semplice e riprodu
 
 ### Prerequisiti
 
-* [Docker](https://www.docker.com/?utm_source=gemini) e [Docker Compose](https://docs.docker.com/compose/?utm_source=gemini) installati sul proprio sistema.
+* [Docker](https://www.docker.com/) e [Docker Compose](https://docs.docker.com/compose/) installati sul proprio sistema.
 
 ### Avvio dell'Applicazione
 
@@ -71,7 +71,7 @@ L'intero ambiente è dockerizzato per garantire un'esecuzione semplice e riprodu
 
    * **Frontend (SPA Angular):** `http://localhost:4200`
    * **Backend (API REST):** `http://localhost:8080`
-   * **DB (MongoDB):** `http://localhost:27017`
+   * **DB (MongoDB):** `mongodb://localhost:27017`
      
 ---
 
@@ -85,6 +85,3 @@ Si può accedere al sistema utilizzando le seguenti credenziali di test:
 * **Docente:**` lecturer@lecturer.it` / password: `lecturer`/ role: `LECTURER`
 * **Ufficio:** `staff@staff.it` / password: `staff`/ role: `STAFF`
 
-## 👥 Autori
-
-* Manuel Rosace - 901771
